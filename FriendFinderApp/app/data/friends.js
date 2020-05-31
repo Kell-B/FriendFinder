@@ -8,37 +8,37 @@ var friends = [
     {
         name: "Jan",
         photo: "",
-        scores: [5, 1, 4, 4, 3, 5, 2, 3, 4, 2]
+        scores: [1, 4, 5, 2, 1, 5, 4, 4, 1, 5]
     },
     {
         name: "James",
         photo: "",
-        scores: [5, 1, 4, 4, 3, 5, 2, 3, 4, 2]
+        scores: [3, 2, 5, 4, 1, 2, 3, 4, 1, 5]
     },
     {
         name: "Jane",
         photo: "",
-        scores: [5, 1, 4, 4, 3, 5, 2, 3, 4, 2]
+        scores: [5, 3, 2, 5, 4, 1, 2, 3, 4, 1]
     },
     {
         name: "Jason",
         photo: "",
-        scores: [5, 1, 4, 4, 3, 5, 2, 3, 4, 2]
+        scores: [1, 5, 3, 2, 5, 4, 1, 2, 3, 4]
     },
     {
         name: "Jezebel",
         photo: "",
-        scores: [5, 1, 4, 4, 3, 5, 2, 3, 4, 2]
+        scores: [4, 1, 5, 3, 2, 5, 4, 1, 2, 3]
     },
     {
         name: "Jake",
         photo: "",
-        scores: [5, 1, 4, 4, 3, 5, 2, 3, 4, 2]
+        scores: [3, 4, 1, 5, 3, 2, 5, 4, 1, 2]
     },
     {
         name: "Jamie",
         photo: "",
-        scores: [5, 1, 4, 4, 3, 5, 2, 3, 4, 2]
+        scores: [2, 3, 4, 1, 5, 3, 2, 5, 4, 1]
     }
 
 ];
